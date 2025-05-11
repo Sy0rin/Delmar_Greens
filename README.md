@@ -42,4 +42,4 @@ To set up and run the Delmar Greens application locally:
 
 * User-friendly HTML interface for inputting course search queries
 * Backend PHP processing to handle and respond to search requests
-* Structured `Course` class to represent course data([FeedBear][1])
+* Structured `Course` class to represent course data
